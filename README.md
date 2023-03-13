@@ -1,0 +1,2 @@
+# gentic-algorithm
+Genetic Algorithm 
